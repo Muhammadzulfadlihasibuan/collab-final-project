@@ -45,9 +45,9 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="/table" class="nav-link">
+                <a href="/barang" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Table</p>
+                  <p>barang</p>
                 </a>
               </li>
               <li class="nav-item">
@@ -62,3 +62,5 @@
     </nav>
     <!-- /.sidebar-menu -->
   </div>
+
+  
